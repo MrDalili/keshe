@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # Created by .ignore support plugin (hsz.mobi)
 ### Java template
+=======
+>>>>>>> 0d84c5cae3b05b752d069d4d7e881b34e14b6a77
 # Compiled class file
 *.class
 
@@ -23,6 +26,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 
 .idea/
 keshe-background/.gitignore
@@ -31,3 +35,5 @@ keshe-background/src/
 keshe-datasource/
 keshe-documen/
 keshe-frontend/
+=======
+>>>>>>> 0d84c5cae3b05b752d069d4d7e881b34e14b6a77
