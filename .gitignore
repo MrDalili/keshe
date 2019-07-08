@@ -30,10 +30,5 @@ hs_err_pid*
 
 .idea/
 keshe-background/.gitignore
-keshe-background/pom.xml
-keshe-background/src/
-keshe-datasource/
-keshe-documen/
-keshe-frontend/
 =======
 >>>>>>> 0d84c5cae3b05b752d069d4d7e881b34e14b6a77

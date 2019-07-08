@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: root
+    password: ndl.04551
+    url: jdbc:mysql://47.103.14.73:3306/keshe
+    driver-class-name: com.mysql.cj.jdbc.Driver
